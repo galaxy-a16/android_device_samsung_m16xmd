@@ -196,9 +196,9 @@ wt_serial_num.ko
 wt_em_status.ko
 wt_rp_value.ko
 sec_nfc.ko
-secchip.ko
 fingerprint.ko
 fingerprint_sysfs.ko
+secchip.ko
 blk-sec-common.ko
 blk-sec-stats.ko
 ssg.ko
@@ -412,6 +412,6 @@ wt_secboot_fuse.ko
 wt_serial_num.ko
 wt_em_status.ko
 wt_rp_value.ko
-secchip.ko
 fingerprint.ko
 fingerprint_sysfs.ko
+secchip.ko
